@@ -1,4 +1,4 @@
-I patched together a ransomware simulation POC with loads of help from our MS Copilot (Copilot wouldn't commit to some of the code).
+I patched together a ransomware simulation POC with loads of help from our MS Copilot (Copilot wouldn't commit to some of the code but helped with flow).
 
 The simulator behaves like ransomware.     
 
@@ -42,5 +42,3 @@ Did some manual behaviour analysis, here's a sample:
 **The full file encryption loop**
 
 <img src="05_perfile_loop.png" width="">
-
-Is it worth uploading for educational purposes?
