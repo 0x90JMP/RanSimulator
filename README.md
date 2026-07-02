@@ -14,7 +14,7 @@ The simulator behaves like ransomware.    
 
 **Files in \RansomTest: 720 files inside folders and subfolders.**
 
-<img src="RanSim2.png" width="">
+<img src="RanSim3.png" width="">
 
 **Encrypting everything inside RansomTest\***
 
